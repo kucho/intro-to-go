@@ -1,0 +1,106 @@
+# Intro a Go
+
+Victor Rodriguez
+Codeable
+@victor_kucho
+
+## 
+https://gopherize.me/
+
+.image images/victor_gopher.png _ 500
+
+// Aprender en 2017
+
+## Book
+
+.image images/book.png _ 500
+
+## ¿Por qué debería aprender Go?
+
+- Macro {ecosistema}
+- Micro {paquetes}
+
+
+## Empresas que usan Go
+.image images/companies/google.jpg _ 150
+.image images/companies/uber.jpg _ 100
+.image images/companies/dropbox.jpg _ 150
+.image images/companies/twitch.jpg _ 150
+.image images/companies/medium.jpg _ 150
+.image images/companies/cloudflare.png _ 150
+// Respaldado por Google
+// Fue nombrado el lenguaje del año por el index Tiobe en el 2009 y 2016
+// Actualmente es uno de los lenguajes que más se utilizan en DevOps (Docker y Kubernetes fueron escrito en Go)
+
+## Salarios - Global
+// ¿Existe demanda? ¿Cuánto ganan estos desarroladores?
+Top 10 techs mejor pagadas
+
+.image images/global-top-10-paid.png 
+
+## Salarios - Estados Unidos
+// ¿Existe demanda? ¿Cuánto ganan estos desarroladores?
+Top 10 techs mejor pagadas
+
+.image images/usa-top-10-paid.png 
+
+## Características del lenguaje 
+
+.image images/fancy_gopher.jpg _ 300
+
+// No hay declaraciones por anticipado
+// No hay archivos header, todo se declara exactamente una vez
+// Sintaxis es limpia y bastante ligera en keywords
+// La inicialización es expresiva, automática y fácil de usar
+// No existe la jerarquía de tipos (clases) y herencia
+// El polimorfismo se consigue mediante contratos (interfaces) e incrustación de estructuras
+// Automatiza tareas mundanas como code formatting, facilita tooling
+// Binarios (ejecutables): Go genera binarios con todas las dependencias necesarias. No hay que instalar nada. 
+// Facilidad de uso del gestor de paquetes
+
+
+## ¿Qué es Go?
+
+Go es un lenguaje de programación nuevo, de uso general.
+
+- Compilado
+- Tipado estático
+- Concurrente
+- Simple
+- Productivo 
+- Garbage collection
+
+.image images/gopher.jpg _ 150
+
+## Historia
+
+// .image images/logo.png _ 150
+
+// El proyecto comienza en Google en 2007 (por Robert Griesemer, Rob Pike, Ken Thompson)
+// Debía eliminar la lentitud y la torpeza del desarrollo de software en Google
+// El lenguaje fue diseñado por y para personas que escriben, leen, depuran y mantienen grandes sistemas de software
+// Dos años después fue lanzado al público como proyecto open source
+
+## Influencia
+
+- Sintaxis base: C
+- Declaración y paquetes: Pascal / Modula / Oberon
+- Concurrencia: Comunicación Secuencial de Procesos (CSP)
+
+## Relevancia  { DevOps }
+// DevOps es un conjunto de prácticas que trabaja para automatizar e integrar los procesos entre 
+// el desarrollo de software y los equipos de TI, para que puedan construir, probar y lanzar software 
+// de manera más rápida y confiable.
+- Excelente performance
+- Multithreading y concurrencia
+- Web server y aplicaciones de red en la librería estándar
+- Testing y profiling tools incorporados
+- Facilidad para escalar horizontalmente
+
+
+## Recursos
+
+- https://golang.org/doc/faq
+- https://www.tiobe.com/tiobe-index/go/
+- https://insights.stackoverflow.com/survey/2019
+- https://github.com/golang/go/wiki/GoUsers
